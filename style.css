@@ -1,0 +1,37 @@
+h1{
+    color:cadetblue;
+    margin: 50px;
+}
+.about{
+    background-color: #dc143c;
+}
+/* *{
+    border:solid
+}*/
+.header{
+    background-color: #d2691e;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+.description{
+    text-align: left;
+}
+.grid{
+    text-align: center;
+}
+body{
+    background-color: #808080;
+}
+.item{
+    margin: 50px;
+}
